@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Oi, tudo bem? Eu sou a <a href="#">Arine 😃️</a></h1>
+  <h1>Oi, tudo bem? Eu sou a Arine 😃️</a></h1>
   
   <p>
     Sou estudante de Engenharia da Computação na UFRPE, apaixonada por tecnologia e pela constante busca por conhecimento. Tenho o objetivo de contribuir para o desenvolvimento de soluções inovadoras.
