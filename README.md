@@ -29,7 +29,3 @@
 
   
 </div>
-
-<div align="center">
-  <p>Feito com : JavaScript.</p>
-</div>
