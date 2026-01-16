@@ -10,9 +10,11 @@
 <div align="center">
   <a href="https://github.com/Arinesouza">
 
-<img height="150em"
-src="https://github-readme-stats-puce-kappa-97.vercel.app/api/top-langs/?username=Arinesouza&layout=compact&theme=dracula&langs_count=5&hide=html,css"/>
+  <img height="150em"
+    src="https://github-readme-stats-puce-kappa-97.vercel.app/api?username=Arinesouza&show_icons=true&theme=dracula"/>
 
+  <img height="150em"
+    src="https://github-readme-stats-puce-kappa-97.vercel.app/api/top-langs/?username=Arinesouza&layout=compact&theme=dracula"/>
 
   </a>
 </div>
